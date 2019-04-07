@@ -92,6 +92,6 @@ echo -e "     $g         Update "
 sleep 2
 
 cd $HOME/Virus4
-python2 Virus4.py
+python Virus4.py
 
 
